@@ -6,4 +6,4 @@
 1- Os valores serão calculados e armazenados em int ao invés de float e decimal
 
 ## Tecnologias
-1- Python 3.14+
+- Python 3.14+
